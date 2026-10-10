@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">ThreadLens</title>
+  <desc id="description">White TL monogram on a near-black square, framed by a lilac folded ribbon. Thread Space Icon Design System v1.0.</desc>
+  <defs>
+    <linearGradient id="ribbon" x1="48" y1="304" x2="976" y2="704" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A279EB" />
+      <stop offset=".48" stop-color="#8252DC" />
+      <stop offset="1" stop-color="#643BB2" />
+    </linearGradient>
+    <clipPath id="frame">
+      <path d="M352 64H928Q960 64 960 96V480Q960 496 949 507L507 949Q496 960 480 960H96Q64 960 64 928V368Q64 352 75 341L341 75Q352 64 352 64Z" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <path fill="url(#ribbon)" d="M48 48H976V960H48Z" />
+    <path fill="#A279EB" fill-opacity=".52" d="M48 368 352 48 512 320 160 880 48 960Z" />
+    <path fill="#643BB2" fill-opacity=".28" d="M352 48H976L720 320H512Z" />
+    <path fill="#A279EB" fill-opacity=".18" d="M976 48V480L720 736V320Z" />
+    <path fill="#643BB2" fill-opacity=".48" d="M48 960 160 880H512L584 960Z" />
+  </g>
+  <rect x="160" y="320" width="560" height="560" rx="32" fill="#090B10" />
+  <g fill="#FFFFFF" aria-label="TL">
+    <path d="M244 484H448V540H374V716H318V540H244Z" />
+    <path d="M480 484H536V660H636V716H480Z" />
+  </g>
+</svg>

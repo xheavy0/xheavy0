@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 280" fill="none" role="img" aria-labelledby="title">
+  <title id="title">Trellis — interwoven diagonal bars</title>
+  <g stroke-width="23" stroke-linecap="round">
+    <path d="M85 120L165 40M36 109L116 189M110 226L189 147M234 118L250 102M29 174L46 157M160 237L176 253" stroke="#E8E6DC"/>
+    <path d="M102 28L117 43M154 86L235 168" stroke="#ED8538"/>
+  </g>
+</svg>
